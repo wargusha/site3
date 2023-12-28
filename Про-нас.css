@@ -1,0 +1,23 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 400px;
+}@font-face {
+  font-family: 'e-Ukraine-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/e-Ukraine-Regular.otf);
+}@font-face {
+  font-family: 'e-Ukraine-Light';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/e-Ukraine-Light.otf);
+}@font-face {
+  font-family: 'e-Ukraine-Medium';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/e-Ukraine-Medium.otf);
+}@font-face {
+  font-family: 'e-UkraineHead-Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/e-UkraineHead-Bold.otf);
+}
