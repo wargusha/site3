@@ -78,18 +78,10 @@
   min-height: 700px;
 }
 
-.u-section-1-2 .u-btn-1 {
-  --radius: 50px;
-  font-family: e-Ukraine-Light;
-  background-image: none;
-  margin: 19px auto 0;
-  padding: 10px 9px;
-}
-
 .u-section-1-2 .u-text-1 {
   font-family: e-UkraineHead-Bold;
   font-weight: 700;
-  margin: 339px auto 60px 0;
+  margin: 19px auto 60px 0;
 }
 
 @media (max-width: 1199px) {
@@ -125,18 +117,10 @@
   min-height: 700px;
 }
 
-.u-section-1-3 .u-btn-1 {
-  --radius: 50px;
-  font-family: e-Ukraine-Light;
-  background-image: none;
-  margin: 19px auto 0;
-  padding: 10px 9px;
-}
-
 .u-section-1-3 .u-text-1 {
   font-family: e-UkraineHead-Bold;
   font-weight: 700;
-  margin: 339px auto 60px 0;
+  margin: 19px auto 60px 0;
 }
 
 @media (max-width: 1199px) {
@@ -172,18 +156,10 @@
   min-height: 700px;
 }
 
-.u-section-1-4 .u-btn-1 {
-  --radius: 50px;
-  font-family: e-Ukraine-Light;
-  background-image: none;
-  margin: 19px auto 0;
-  padding: 10px 9px;
-}
-
 .u-section-1-4 .u-text-1 {
   font-family: e-UkraineHead-Bold;
   font-weight: 700;
-  margin: 339px auto 60px 0;
+  margin: 19px auto 60px 0;
 }
 
 @media (max-width: 1199px) {
@@ -1628,30 +1604,26 @@
   .u-section-4 .u-layout-cell-4 {
     min-height: 215px;
   }
-} .u-section-5 {
+}.u-section-5 .u-sheet-1 {
   min-height: 814px;
-}
-
-.u-section-5 .u-image-1 {
-  width: 1490px;
-  left: auto;
-  right: 0;
 }
 
 .u-section-5 .u-text-1 {
   font-family: e-Ukraine-Bold;
-  margin: 84px auto 0 calc(((100% - 1440px) / 2));
+  margin: 78px auto 0 0;
 }
 
 .u-section-5 .u-line-1 {
-  width: 1275px;
+  width: 1295px;
   transform-origin: right center 0px;
-  margin: 65px auto 0 calc(((100% - 1440px) / 2) + 10px);
+  height: 3px;
+  margin: 70px auto 0 30px;
 }
 
 .u-section-5 .u-list-1 {
   width: 1320px;
-  margin: 16px auto 0 calc(((100% - 1440px) / 2) + -23px);
+  min-height: 475px;
+  margin: 5px auto 60px 0;
 }
 
 .u-section-5 .u-repeater-1 {
@@ -1662,153 +1634,157 @@
 }
 
 .u-section-5 .u-container-layout-1 {
-  padding: 3px 23px;
+  padding: 3px 15px;
+}
+
+.u-section-5 .u-image-1 {
+  height: 410px;
+  width: 100%;
+  margin: 0 15px;
+}
+
+.u-section-5 .u-text-2 {
+  font-family: e-Ukraine-Medium;
+  margin: 30px 0 0 8px;
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding: 3px 15px;
 }
 
 .u-section-5 .u-image-2 {
   height: 410px;
   width: 100%;
-  margin: 0 7px;
+  margin: 0 15px;
 }
 
-.u-section-5 .u-text-2 {
+.u-section-5 .u-text-3 {
   font-family: e-Ukraine-Medium;
-  margin: 30px -8px 0 0;
+  margin: 30px 0 0 8px;
 }
 
-.u-section-5 .u-container-layout-2 {
-  padding: 3px 23px;
+.u-section-5 .u-container-layout-3 {
+  padding: 3px 15px;
 }
 
 .u-section-5 .u-image-3 {
   height: 410px;
   width: 100%;
-  margin: 0 7px;
+  margin: 0 15px;
 }
 
-.u-section-5 .u-text-3 {
+.u-section-5 .u-text-4 {
   font-family: e-Ukraine-Medium;
-  margin: 30px -8px 0 0;
+  margin: 30px 0 0 8px;
 }
 
-.u-section-5 .u-container-layout-3 {
-  padding: 3px 23px;
+.u-section-5 .u-container-layout-4 {
+  padding: 3px 15px;
 }
 
 .u-section-5 .u-image-4 {
   height: 410px;
   width: 100%;
-  margin: 0 7px;
-}
-
-.u-section-5 .u-text-4 {
-  font-family: e-Ukraine-Medium;
-  margin: 30px -8px 0 0;
-}
-
-.u-section-5 .u-container-layout-4 {
-  padding: 3px 23px;
-}
-
-.u-section-5 .u-image-5 {
-  height: 410px;
-  width: 100%;
-  margin: 0 7px;
+  margin: 0 15px;
 }
 
 .u-section-5 .u-text-5 {
   font-family: e-Ukraine-Medium;
-  margin: 30px -8px 0 0;
+  margin: 30px 0 0 8px;
+}
+
+.u-section-5 .u-image-5 {
+  background-image: url("images/plashka.png");
 }
 
 .u-section-5 .u-container-layout-5 {
-  padding: 3px 23px;
+  padding: 3px 15px;
 }
 
 .u-section-5 .u-image-6 {
   height: 410px;
   width: 100%;
-  margin: 0 7px;
+  margin: 0 15px;
 }
 
 .u-section-5 .u-text-6 {
   font-family: e-Ukraine-Medium;
-  margin: 30px -8px 0 0;
+  margin: 30px 0 0 8px;
 }
 
 .u-section-5 .u-container-layout-6 {
-  padding: 3px 23px;
+  padding: 3px 15px;
 }
 
 .u-section-5 .u-image-7 {
   height: 410px;
   width: 100%;
-  margin: 0 7px;
+  margin: 0 15px;
 }
 
 .u-section-5 .u-text-7 {
   font-family: e-Ukraine-Medium;
-  margin: 30px -8px 0 0;
+  margin: 30px 0 0 8px;
 }
 
 .u-section-5 .u-container-layout-7 {
-  padding: 3px 23px;
+  padding: 3px 15px;
 }
 
 .u-section-5 .u-image-8 {
   height: 410px;
   width: 100%;
-  margin: 0 7px;
+  margin: 0 15px;
 }
 
 .u-section-5 .u-text-8 {
   font-family: e-Ukraine-Medium;
-  margin: 30px -8px 0 0;
+  margin: 30px 0 0 8px;
 }
 
 .u-section-5 .u-container-layout-8 {
-  padding: 3px 23px;
+  padding: 3px 15px;
 }
 
 .u-section-5 .u-image-9 {
   height: 410px;
   width: 100%;
-  margin: 0 7px;
+  margin: 0 15px;
 }
 
 .u-section-5 .u-text-9 {
   font-family: e-Ukraine-Medium;
-  margin: 30px -8px 0 0;
+  margin: 30px 0 0 8px;
 }
 
 .u-section-5 .u-container-layout-9 {
-  padding: 3px 23px;
+  padding: 3px 15px;
 }
 
 .u-section-5 .u-image-10 {
   height: 410px;
   width: 100%;
-  margin: 0 7px;
+  margin: 0 15px;
 }
 
 .u-section-5 .u-text-10 {
   font-family: e-Ukraine-Medium;
-  margin: 30px -8px 0 0;
+  margin: 30px 0 0 8px;
 }
 
 .u-section-5 .u-container-layout-10 {
-  padding: 3px 23px;
+  padding: 3px 15px;
 }
 
 .u-section-5 .u-image-11 {
   height: 410px;
   width: 100%;
-  margin: 0 7px;
+  margin: 0 15px;
 }
 
 .u-section-5 .u-text-11 {
   font-family: e-Ukraine-Medium;
-  margin: 30px -8px 0 0;
+  margin: 30px 0 0 8px;
 }
 
 .u-section-5 .u-gallery-nav-1 {
@@ -1816,6 +1792,7 @@
   left: 10px;
   width: 40px;
   height: 40px;
+  top: 218px;
 }
 
 .u-section-5 .u-gallery-nav-2 {
@@ -1826,19 +1803,13 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-5 .u-text-1 {
-    margin-top: -665px;
-    margin-left: calc(((100% - 1440px) / 2) + 250px);
-  }
-
   .u-section-5 .u-line-1 {
     width: 940px;
-    margin-left: calc(((100% - 1440px) / 2) + 250px);
+    margin-left: 0;
   }
 
   .u-section-5 .u-list-1 {
     width: 940px;
-    margin-left: calc(((100% - 1440px) / 2) + 250px);
   }
 
   .u-section-5 .u-repeater-1 {
@@ -1846,60 +1817,53 @@
   }
 
   .u-section-5 .u-text-2 {
-    margin-right: 8px;
+    margin-left: 0;
   }
 
   .u-section-5 .u-text-3 {
-    margin-right: 8px;
+    margin-left: 0;
   }
 
   .u-section-5 .u-text-4 {
-    margin-right: 8px;
+    margin-left: 0;
   }
 
   .u-section-5 .u-text-5 {
-    margin-right: 8px;
+    margin-left: 0;
   }
 
   .u-section-5 .u-text-6 {
-    margin-right: 8px;
+    margin-left: 0;
   }
 
   .u-section-5 .u-text-7 {
-    margin-right: 8px;
+    margin-left: 0;
   }
 
   .u-section-5 .u-text-8 {
-    margin-right: 8px;
+    margin-left: 0;
   }
 
   .u-section-5 .u-text-9 {
-    margin-right: 8px;
+    margin-left: 0;
   }
 
   .u-section-5 .u-text-10 {
-    margin-right: 8px;
+    margin-left: 0;
   }
 
   .u-section-5 .u-text-11 {
-    margin-right: 8px;
+    margin-left: 0;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-5 .u-text-1 {
-    margin-top: -636px;
-    margin-left: calc(((100% - 1440px) / 2) + 360px);
-  }
-
   .u-section-5 .u-line-1 {
     width: 720px;
-    margin-left: calc(((100% - 1440px) / 2) + 360px);
   }
 
   .u-section-5 .u-list-1 {
     width: 720px;
-    margin-left: calc(((100% - 1440px) / 2) + 360px);
   }
 
   .u-section-5 .u-repeater-1 {
@@ -1909,19 +1873,12 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-5 .u-text-1 {
-    margin-top: -521px;
-    margin-left: calc(((100% - 1440px) / 2) + 450px);
-  }
-
   .u-section-5 .u-line-1 {
     width: 540px;
-    margin-left: calc(((100% - 1440px) / 2) + 450px);
   }
 
   .u-section-5 .u-list-1 {
     width: 540px;
-    margin-left: calc(((100% - 1440px) / 2) + 450px);
   }
 
   .u-section-5 .u-repeater-1 {
@@ -1981,19 +1938,12 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-5 .u-text-1 {
-    margin-top: -402px;
-    margin-left: calc(((100% - 1440px) / 2) + 550px);
-  }
-
   .u-section-5 .u-line-1 {
     width: 340px;
-    margin-left: calc(((100% - 1440px) / 2) + 550px);
   }
 
   .u-section-5 .u-list-1 {
     width: 340px;
-    margin-left: calc(((100% - 1440px) / 2) + 550px);
   }
 
   .u-section-5 .u-repeater-1 {
@@ -2440,7 +2390,7 @@
 .u-section-7 .u-text-4 {
   font-family: e-Ukraine-Light;
   line-height: 1.2;
-  margin: 122px -40px 60px 840px;
+  margin: 127px 0 60px 800px;
 }
 
 @media (max-width: 1199px) {
@@ -2453,7 +2403,7 @@
   }
 
   .u-section-7 .u-text-4 {
-    margin-left: 590px;
+    margin-left: 550px;
   }
 }
 
@@ -2467,7 +2417,7 @@
   }
 
   .u-section-7 .u-text-4 {
-    margin-left: 480px;
+    margin-left: 330px;
   }
 }
 
@@ -2489,7 +2439,7 @@
   }
 
   .u-section-7 .u-text-4 {
-    margin-left: 390px;
+    margin-left: 150px;
   }
 }
 
@@ -2511,7 +2461,7 @@
   }
 
   .u-section-7 .u-text-4 {
-    margin-left: 290px;
+    margin-left: 0;
   }
 }.u-section-8 .u-sheet-1 {
   min-height: 1035px;
